@@ -6,7 +6,6 @@ I'm Peter, a final-year Software Engineering student at the University of Sevill
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:petercartergz@gmail.com)
 
 
-
 ## 📊 GitHub stats
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Petercrgz&show_icons=true&theme=radical)
